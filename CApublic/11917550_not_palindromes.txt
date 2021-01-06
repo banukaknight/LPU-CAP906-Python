@@ -1,0 +1,7 @@
+11917550_not_palindromes.txt: created at: 2020-11-05 13:28:12.921315
+___Numbers for which Square is not Palindrome.
+99 squared is: 9801
+10 squared is: 100
+-5 squared is: 25
+-1000 squared is: 1000000
+33 squared is: 1089

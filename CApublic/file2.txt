@@ -1,0 +1,8 @@
+Number  |  Square  | Square palindrome ? 
+4       |    16     |  No 
+5       |    25     |  No 
+6       |    36     |  No 
+7       |    49     |  No 
+8       |    64     |  No 
+9       |    81     |  No 
+10       |    100     |  No 
